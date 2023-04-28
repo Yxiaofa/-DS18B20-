@@ -1,0 +1,59 @@
+[DebugChecksum]
+Checksum=1450908656
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[InstructionProfiling]
+Enabled=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[CallStack]
+ShowArgs=0
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Count=0
+[ChipconEmu]
+Stop timers on halt=1
+Leave target running=1
+[Aliases]
+A0=_ "C:\Users\czl\Desktop\覃朗-四川师范大学-显示屏oled\11.按键无线控制台灯和LED灯 继电器\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\Samples\SampleApp\Source\DS18B20.c" ""
+A1=_ "E:\BaiduYunDownload\zigbee开发板v5.2\代码及其教程\3.高级篇-zigbee协议栈应用与组网\11.按键无线控制台灯和LED灯 继电器\ZStack-CC2530-2.3.0-1.4.0\Components\mac\low_level\srf04\single_chip\mac_csp_tx.c" ""
+A2=_ "E:\BaiduYunDownload\zigbee开发板v5.2\代码及其教程\3.高级篇-zigbee协议栈应用与组网\11.按键无线控制台灯和LED灯 继电器\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\ZMain\TI2530DB\ZMain.c" ""
+A3=_ "E:\SZ2530\5.zigbee协议栈应用与组网\10.按键无线控制台灯和LED灯\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\ZMain\TI2530DB\ZMain.c" ""
+A4=_ "E:\zb\温湿度采集\ZStack-CC2530-2.3.0-1.4.0\Components\mac\low_level\srf04\single_chip\mac_csp_tx.c" ""
+A5=_ "E:\zb\温湿度采集\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\ZMain\TI2530DB\ZMain.c" ""
+A6=_ "E:\zigbee\软件资料\软件资料\开发例程\5.zigbee协议栈应用与组网\11.按键无线控制台灯和LED灯 继电器\ZStack-CC2530-2.3.0-1.4.0\Components\zmac\f8w\zmac.c" ""
+A7=_ "F:\2019\刘晓晨-温湿度+MQ7+风扇\下位机程序（CC2530）\ZStack-CC2530-2.3.0-1.4.0\Components\mac\low_level\srf04\single_chip\mac_csp_tx.c" ""
+A8=_ "F:\2019\刘晓晨-温湿度+MQ7+风扇\下位机程序（CC2530）\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\ZMain\TI2530DB\ZMain.c" ""
+A9=_ "F:\2019\王键宁-20181005\下位机程序（zigbee）\ZStack-CC2530-2.3.0-1.4.0\Components\mac\low_level\srf04\mac_radio.c" ""
+A10=_ "F:\2019\王键宁-20181005\下位机程序（zigbee）\ZStack-CC2530-2.3.0-1.4.0\Components\mac\low_level\srf04\single_chip\mac_csp_tx.c" ""
+A11=_ "F:\2019\王键宁-20181005\下位机程序（zigbee）\ZStack-CC2530-2.3.0-1.4.0\Components\zmac\f8w\zmac.c" ""
+A12=_ "F:\2019\王键宁-20181005\下位机程序（zigbee）\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\ZMain\TI2530DB\ZMain.c" ""
+Count=13
+SuppressDialog=0
