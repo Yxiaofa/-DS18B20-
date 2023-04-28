@@ -1,0 +1,16 @@
+.\obj\oled_iic.o: ..\USER\oled_iic.c
+.\obj\oled_iic.o: ..\USER\oled_iic.h
+.\obj\oled_iic.o: ..\USER\sys.h
+.\obj\oled_iic.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\obj\oled_iic.o: ..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
+.\obj\oled_iic.o: G:\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\oled_iic.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\obj\oled_iic.o: ..\USER\stm32f10x_conf.h
+.\obj\oled_iic.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\obj\oled_iic.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\obj\oled_iic.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\obj\oled_iic.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\obj\oled_iic.o: G:\ARM\ARMCC\Bin\..\include\inttypes.h
+.\obj\oled_iic.o: ..\USER\delay.h
+.\obj\oled_iic.o: ..\USER\oledfont.h
+.\obj\oled_iic.o: G:\ARM\ARMCC\Bin\..\include\string.h

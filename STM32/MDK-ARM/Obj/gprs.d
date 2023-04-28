@@ -1,0 +1,16 @@
+.\obj\gprs.o: ..\USER\gprs.c
+.\obj\gprs.o: ..\USER\gprs.h
+.\obj\gprs.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\obj\gprs.o: ..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
+.\obj\gprs.o: G:\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\gprs.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\obj\gprs.o: ..\USER\stm32f10x_conf.h
+.\obj\gprs.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\obj\gprs.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\obj\gprs.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\obj\gprs.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\obj\gprs.o: ..\USER\mcu_config.h
+.\obj\gprs.o: G:\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\gprs.o: G:\ARM\ARMCC\Bin\..\include\string.h
+.\obj\gprs.o: ..\USER\sys.h
+.\obj\gprs.o: ..\USER\delay.h
